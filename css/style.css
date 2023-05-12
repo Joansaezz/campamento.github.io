@@ -76,4 +76,23 @@ header {
     background-color: #45a049;
 }
 
+.parpadeo {
+  animation: parpadeo 5s infinite;
+}
+
+@keyframes parpadeo {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+
+
 
