@@ -77,7 +77,7 @@ header {
 }
 
 .parpadeo {
-  animation: parpadeo 0.1s infinite 10s;
+  animation: parpadeo 10s infinite 1s;
 }
 
 @keyframes parpadeo {
